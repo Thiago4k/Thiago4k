@@ -40,7 +40,8 @@ Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transi
 
 <h1>👨‍💻 Thiago da Silva Souza</h1>
 
-I am currently finishing my Computer Science degree and seeking my first internship opportunity to apply my knowledge to real-world projects. I have lately focused on front-end development, aiming to create modern and functional interfaces for training purposes.
+I am currently finishing my Computer Science degree and seeking my first internship opportunity to apply my knowledge to real-world projects. 
+I have lately focused on front-end development, aiming to create modern and functional interfaces for training purposes.
 
 ## 🚀 Featured Projects
 
