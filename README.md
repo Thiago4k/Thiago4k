@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Thiago da Silva Souza 
 
-<!--
-**Thiago4k/Thiago4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Atualmente, estou finalizando minha graduação em Ciência da Computação e buscando minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais. Tenho focado ultimamnte no
+ desenvolvimento front-end com a finalidade de criar interfaces modernas e funcionais para fins de treinamento.
+   
+## 🚀 Projetos em Destaque
 
-Here are some ideas to get you started:
+### **Prime Video UI:** 
+Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transições suaves. [Ver Repositório](https://github.com/Thiago4k/prime-video-ui)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias e Ferramentas
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
+- **Ferramentas:** Git, GitHub, VS Code
+
+### 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/thiago-da-silva-souza-br/seu-link-aqui)
+- [E-mail](thiagosouza4k@gmail.com)
+
+---
+"Transformando código em experiências visuais."
