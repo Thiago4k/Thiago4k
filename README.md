@@ -9,7 +9,8 @@ Atualmente, estou finalizando minha graduação em Ciência da Computação e bu
 
 ## 🚀 Projetos em Destaque
 
-### **Prime Video UI:** Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transições suaves. [Ver Repositório](https://github.com/Thiago4k/prime-video-ui)
+### **Prime Video UI:** 
+Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transições suaves. [Ver Repositório](https://github.com/Thiago4k/prime-video-ui)
 
 ## 🛠 Tecnologias e Ferramentas
 - **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
@@ -43,7 +44,8 @@ I am currently finishing my Computer Science degree and seeking my first interns
 
 ## 🚀 Featured Projects
 
-### **Prime Video UI:** An interface inspired by Amazon's streaming service, focusing on clean UI/UX and smooth transitions. [View Repository](https://github.com/Thiago4k/prime-video-ui)
+### **Prime Video UI:** 
+An interface inspired by Amazon's streaming service, focusing on clean UI/UX and smooth transitions. [View Repository](https://github.com/Thiago4k/prime-video-ui)
 
 ## 🛠 Technologies and Tools
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
