@@ -15,7 +15,11 @@ Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transi
 ### 📫 Como me encontrar
 
 <div align="left">
-  <a href="mailto:thiagosouza4k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/thiago-da-silva-souza-br/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/thiago-da-silva-souza-br/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+ <br>
+  <span>📩 thiagosouza4k@gmail.com</span>
 </div>
 
 ## Skills
