@@ -1,6 +1,6 @@
 # 👨‍💻 Thiago da Silva Souza 
 
- Atualmente, estou finalizando minha graduação em Ciência da Computação e buscando minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais. Tenho focado ultimamnte no
+ Atualmente, estou finalizando minha graduação em Ciência da Computação e buscando minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais. Tenho focado ultimamente no
  desenvolvimento front-end com a finalidade de criar interfaces modernas e funcionais para fins de treinamento.
    
 ## 🚀 Projetos em Destaque
