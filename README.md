@@ -30,7 +30,6 @@ Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transi
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-"Transformando código em experiências visuais."
 
  # 👨‍💻 Thiago da Silva Souza 
 
@@ -62,5 +61,5 @@ An interface inspired by Amazon's streaming service, focusing on clean UI/UX and
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-"Turning code into visual experiences."
+
+
