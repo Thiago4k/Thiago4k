@@ -6,7 +6,7 @@
 ## 🚀 Projetos em Destaque
 
 ### **Prime Video UI:** 
-Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transições suaves. [Ver Repositório](https://github.com/Thiago4k/prime-video-ui)
+Uma interface inspirada no streaming da Amazon, com foco em UX/UI limpa e transições suaves. [Ver Repositório](https://github.com/Thiago4k/prime-video-ui)
 
 ## 🛠 Tecnologias e Ferramentas
 - **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
