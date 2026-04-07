@@ -1,12 +1,8 @@
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td valign="top" width="50%" style="border: none;">
+# 👨‍💻 Thiago da Silva Souza 
 
-<h1>👨‍💻 Thiago da Silva Souza</h1>
-
-Atualmente, estou finalizando minha graduação em Ciência da Computação e buscando minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais. Tenho focado ultimamente no desenvolvimento front-end com a finalidade de criar interfaces modernas e funcionais para fins de treinamento.
-
+ Atualmente, estou finalizando minha graduação em Ciência da Computação e buscando minha primeira oportunidade de estágio para aplicar meus conhecimentos em projetos reais. Tenho focado ultimamente no
+ desenvolvimento front-end com a finalidade de criar interfaces modernas e funcionais para fins de treinamento.
+   
 ## 🚀 Projetos em Destaque
 
 ### **Prime Video UI:** 
@@ -35,14 +31,11 @@ Uma interface inspirada no streaming da Amazon, com foco em UI/UX limpa e transi
 
 ---
 "Transformando código em experiências visuais."
-      </td>
-      <td valign="top" width="50%" style="border: none;">
 
-<h1>👨‍💻 Thiago da Silva Souza</h1>
+ # 👨‍💻 Thiago da Silva Souza 
 
-I am currently finishing my Computer Science degree and seeking my first internship opportunity to apply my knowledge to real-world projects. 
-I have lately focused on front-end development, aiming to create modern and functional interfaces for training purposes.
-
+I am currently finishing my Computer Science degree and seeking my first internship opportunity to apply my knowledge to real-world projects. I have lately focused on front-end development, aiming to create modern and functional interfaces for training purposes.
+    
 ## 🚀 Featured Projects
 
 ### **Prime Video UI:** 
@@ -70,8 +63,4 @@ An interface inspired by Amazon's streaming service, focusing on clean UI/UX and
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-"Turning code into visual experiences." 
-      </td>
-    </tr>
-  </table>
-</div>
+"Turning code into visual experiences."
